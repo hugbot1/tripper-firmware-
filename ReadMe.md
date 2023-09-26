@@ -1,3 +1,10 @@
-<font size="7">This is work in progrees.</font>
+Tripper firmware is a flipperzero custom frimware that is work in progress that ive been working on!
+![image](https://github.com/hugbot1/tripper-firmware-/assets/132775034/877a493a-d60a-4a7a-be52-91ddbb2609c8)
+The firmware is not yet relesed but you can conplie it with git and python (use powershell to conpile)
 
-![image](https://github.com/hugbot1/tripper-firmware-/assets/132775034/324daccc-4a40-4bd2-9e86-9f5cb777cc34)
+copy and paste in powershell:
+
+
+[set-location ""]
+
+[./fbt updater_package]
